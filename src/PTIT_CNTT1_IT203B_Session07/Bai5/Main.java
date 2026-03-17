@@ -28,6 +28,7 @@ public class Main {
             System.out.println("6. Thêm thanh toán mới");
             System.out.println("7. Thêm giảm giá mới");
             System.out.println("0. Thoát");
+            System.out.print("Nhập lựa chọn: ");
             int choice = sc.nextInt();
             sc.nextLine();
 
